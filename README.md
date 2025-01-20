@@ -17,10 +17,11 @@
 - https://www.pixabay.com/
 - https://www.unsplash.com/
 - https://www.flaticon.com/
-- https://www.pngegg.com/
+
 
 # Redes Sociais:
 - https://www.instagram.com/trechosgame/
-- https://www.linkedin.com/in/debora-inocencio/
-- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://www.behance.net/trechosgame
 - https://github.com/trechosgame
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+
